@@ -28,6 +28,6 @@ Task 72897 is missing START or END time.
 
 # Things to improve
 Generate separate CSV files instead of console output:
-    - warning_logs.csv --> Stores warning logs
-    - error_logs.csv --> Stores error logs
-    - incomplete_logs.csv --> For jobs that do not have a START or END time
+- warning_logs.csv --> Stores warning logs
+- error_logs.csv --> Stores error logs
+- incomplete_logs.csv --> For jobs that do not have a START or END time
